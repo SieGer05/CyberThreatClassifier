@@ -22,6 +22,13 @@ Développer un modèle intelligent capable de détecter les comportements malvei
 
 ---
 
+## 📂 Dataset
+
+Le dataset utilisé est disponible sur Kaggle :  
+🔗 [CICIDS2017 - Intrusion Detection Evaluation Dataset](https://www.kaggle.com/datasets/dhoogla/cicids2017)
+
+---
+
 ## Auteurs
 
 - **JAOUAD Salah-Eddine**  
